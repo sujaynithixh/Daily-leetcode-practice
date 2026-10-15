@@ -79,4 +79,4 @@ Each non-empty contiguous subarray corresponds to exactly one pair `(i,j)` with 
 
 For many array tasks, fix the start position and gradually extend the end position. A set is a handy way to track how many unique values have appeared.
 
-The companion Word notes document includes a black-and-white version of the accepted-submission screenshot.
+A separate Word notes document with the black-and-white accepted-submission screenshot has also been prepared for this day.
